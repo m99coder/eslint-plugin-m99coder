@@ -15,6 +15,10 @@
     "vars-on-top"
   ],
   "author": "Marco Lehmann <m99coder@gmail.com> (http://m99.io/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m99coder/eslint-plugin-m99coder.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "coveralls": "2.11.12",
