@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-m99coder",
+  "version": "0.1.0",
+  "description": "A collection of useful ESLint rules",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive",
+    "coverage": "istanbul cover node_modules/.bin/_mocha tests/**/*.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "plugin",
+    "vars-on-top"
+  ],
+  "author": "Marco Lehmann <m99coder@gmail.com> (http://m99.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "coveralls": "2.11.12",
+    "eslint": "3.1.1",
+    "istanbul": "0.4.4",
+    "mocha": "2.5.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
