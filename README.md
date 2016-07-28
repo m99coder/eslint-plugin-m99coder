@@ -1,11 +1,11 @@
-# eslint plugin m99coder [![Npm version](https://img.shields.io/npm/v/eslint-plugin-m99coder.svg)](https://www.npmjs.com/package/eslint-plugin-m99coder) [![Npm downloads per month](https://img.shields.io/npm/dm/eslint-plugin-m99coder.svg)](https://www.npmjs.com/package/eslint-plugin-m99coder)
+# eslint plugin m99coder [![npm Version](https://img.shields.io/npm/v/eslint-plugin-m99coder.svg)](https://www.npmjs.com/package/eslint-plugin-m99coder) [![npm Downloads](https://img.shields.io/npm/dm/eslint-plugin-m99coder.svg)](https://www.npmjs.com/package/eslint-plugin-m99coder)
 
 > A collection of useful ESLint rules.
 
 [![Build Status](https://img.shields.io/travis/m99coder/eslint-plugin-m99coder/master.svg)](https://travis-ci.org/m99coder/eslint-plugin-m99coder)
 [![Test Coverage](https://img.shields.io/coveralls/m99coder/eslint-plugin-m99coder/master.svg)](https://coveralls.io/github/m99coder/eslint-plugin-m99coder)
-[![Npm dependencies](https://img.shields.io/david/m99coder/eslint-plugin-m99coder.svg)](https://david-dm.org/m99coder/eslint-plugin-m99coder)
-[![devDependency Status](https://img.shields.io/david/dev/m99coder/eslint-plugin-m99coder.svg)](https://david-dm.org/m99coder/eslint-plugin-m99coder#info=devDependencies)
+[![npm Dependencies](https://img.shields.io/david/m99coder/eslint-plugin-m99coder.svg)](https://david-dm.org/m99coder/eslint-plugin-m99coder)
+[![npm devDependencies](https://img.shields.io/david/dev/m99coder/eslint-plugin-m99coder.svg)](https://david-dm.org/m99coder/eslint-plugin-m99coder#info=devDependencies)
 
 ## Installation
 
