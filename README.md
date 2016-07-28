@@ -15,13 +15,13 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-m99coder`:
+Next, install `eslint-config-m99coder` and `eslint-plugin-m99coder`:
 
 ```
-$ npm install eslint-plugin-m99coder --save-dev
+$ npm install eslint-config-m99coder eslint-plugin-m99coder --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-m99coder` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install the packages globally.
 
 ## Usage
 
