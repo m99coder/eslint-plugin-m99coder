@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-m99coder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A collection of useful ESLint rules",
   "main": "lib/index.js",
   "scripts": {
