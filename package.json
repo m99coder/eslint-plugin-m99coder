@@ -27,7 +27,7 @@
     "istanbul": "0.4.4",
     "js-yaml": ">=3.13.1",
     "minimist": ">=1.2.3",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "underscore.string": ">=3.3.5"
   },
   "engines": {
